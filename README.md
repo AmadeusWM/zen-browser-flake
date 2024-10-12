@@ -1,3 +1,8 @@
+# Check with:
+```sh
+nix flake check
+````
+
 # Zen Browser
 
 This is a flake for the Zen browser.
